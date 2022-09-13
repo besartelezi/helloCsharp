@@ -22,3 +22,8 @@ I have chosen Rider as my IDE.
 Currently, my goal is to create a small interactive text-based game.
 The user will be presented with different choices, and the choices will impact what kind of adventure the user will be going on.
 I'll focus on having the user experience a fun and wacky adventure!
+
+## Final thoughts
+As of now, I'm not completely satisfied with the end result.
+I still don't know how functions work in C#, so once I learn this in a future project, I want to revisit this one and update it.
+Once I know how the functions work, I can write a better interactive text-based game.
